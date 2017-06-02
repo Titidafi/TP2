@@ -1,17 +1,29 @@
 #container
 {
 	margin: 0 30px;
+<<<<<<< HEAD
+	background-color:forestgreen ;
+=======
 	background-image: url(d8f3192f544fc69ddec0a5fa52df850b.jpg);
+>>>>>>> 06ca6dbbf419d6ae72e6f546679a823b3361f2e7
 }
 
 #header
 {
+<<<<<<< HEAD
+	background-color: darkgray;
+=======
 	background-color:antiquewhite;
+>>>>>>> 06ca6dbbf419d6ae72e6f546679a823b3361f2e7
 	padding: 20px;
     
 }
 
+<<<<<<< HEAD
+#header h1 { margin: 5; background-color: azure}
+=======
 #header h1 { margin: 0; color:cadetblue}
+>>>>>>> 06ca6dbbf419d6ae72e6f546679a823b3361f2e7
 
 #navigation
 {
@@ -22,7 +34,7 @@
 
 #navigation ul
 {
-	margin: 0;
+	margin: 500px;
 	padding: 0;
     
 }
@@ -36,7 +48,7 @@
 #navigation li a
 {
 	display: block;
-	float: left;
+	float: right;
 	padding: 5px 10px;
 	color: #fff;
 	text-decoration: none;
